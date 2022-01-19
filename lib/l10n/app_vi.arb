@@ -1,0 +1,13 @@
+{
+  "@@locale": "vi",
+  "helloWorld": "Xin chào thế giới!",
+  "changeLanguage": "Đổi ngôn ngữ",
+  "notificationScreen": "Màn hình thông báo",
+  "enterYourNameHere": "Nhập tên của bạn",
+  "yourNameIs": "Tên của bạn là {userName}",
+  "enterAnyNumberHere": "Nhập một số bất kì",
+  "userNumberIs": "Số mà {username} đã nhập là: {number}",
+  "todayTomorrow": "Hôm nay là {today}, ngày mai là {tomorrow}",
+  "nThings": "{count,plural, =0{Không có {thing}} other{{count} {thing}}",
+  "chicken": "con gà"
+}

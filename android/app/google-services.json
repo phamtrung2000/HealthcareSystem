@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "286016832303",
+    "project_id": "shini-health",
+    "storage_bucket": "shini-health.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286016832303:android:1942b7b4a4b8408fc2d7da",
+        "android_client_info": {
+          "package_name": "com.example.flutter_mental_health"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "286016832303-nokv1me57kr0oh9u5j3v8it9g5hbuk0f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQZRDdKFxTXi7MDf3VsNUbrqvCPLtrRBE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "286016832303-nokv1me57kr0oh9u5j3v8it9g5hbuk0f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

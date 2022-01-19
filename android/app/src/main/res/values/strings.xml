@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">health care system</string>
+    <string name="facebook_app_id">1020930835130246</string> 
+    <string name="fb_login_protocol_scheme">fb1020930835130246</string>
+
+</resources>
